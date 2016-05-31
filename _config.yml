@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MuddRobotics.github.io
+title: MuddRobotics
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 10
